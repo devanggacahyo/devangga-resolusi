@@ -1,0 +1,9 @@
+RENCANA KONTEN DCP
+
+- Javascript
+    * ES6
+    * Framework Javascipt
+    
+- Php Framework
+- Interview
+- Vlogs
